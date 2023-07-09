@@ -2,8 +2,8 @@ Instructions To Compile and Run:
 1. Download the File and keep it in a directory say 'X'. Keep the file data.txt containing the data points in the same directory.
 2. Open the directory on Terminal.
 3. Run the File using the following instructions
-    a. gcc -c DSA_assignment_group_14.c
-    b. gcc -o run.exe DSA_assignment_group_14.o
+    a. gcc -c R-Tree-Implementation.c
+    b. gcc -o run.exe R-Tree-Implementation.o
     c. ./run.exe
 
 Output Observed:
